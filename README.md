@@ -77,4 +77,4 @@ Este projeto tem como objetivo fornecer uma solução prática para análise de 
 
 ## Autores
 
-- **Igor da Silva Alencar** - _Trabalho Inicial_ - [Seu Perfil no GitHub](https://github.com/seu-usuario)
+- **Igor da Silva Alencar** - ([IgorSAlencar](https://github.com/IgorSAlencar))
