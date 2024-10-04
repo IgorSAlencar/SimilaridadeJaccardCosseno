@@ -64,7 +64,6 @@ O arquivo `Base - FeedBacks Clientes.xlsx` contém dados de feedbacks de cliente
 
   > "A implantação foi um sucesso e finalizada está operando normalmente"
 
-# Análises Incluídas
 ## Similaridade de Cosseno
 O notebook `Cosseno.ipynb` implementa a métrica de Similaridade Cosseno, que é amplamente usada para medir a similaridade entre dois textos com base no ângulo entre seus vetores de palavras obtidos através da técnica TF-IDF.
 
